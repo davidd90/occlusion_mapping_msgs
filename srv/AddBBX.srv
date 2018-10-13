@@ -1,0 +1,10 @@
+int64 bbxID
+string frameID
+float32 centerX
+float32 centerY
+float32 centerZ
+float32 length
+float32 width
+float32 rotation
+---
+bool success
